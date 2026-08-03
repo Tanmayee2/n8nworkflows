@@ -133,7 +133,7 @@ The final stage prepares processed sales data for analytics.
 ### Screenshot
 
 
-[Sales Pipeline](images/Sales-order-data-pipeline.png)
+![Sales Pipeline](images/Sales-order-data-pipeline.png)
 
 
 ---
