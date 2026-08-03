@@ -1,8 +1,14 @@
-# End-to-End Order Processing & Sales Automation Platform
+## Data Analytics-Driven Order Processing & Sales Automation Pipeline
 
-An end-to-end automation solution built with **n8n** that streamlines the complete order lifecycle—from receiving customer orders to processing, enrichment, routing, and reporting.
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![HTTP](https://img.shields.io/badge/HTTP-Requests-blue?style=for-the-badge)
+![JSON](https://img.shields.io/badge/JSON-Data-black?style=for-the-badge&logo=json)
+![API](https://img.shields.io/badge/API-Integration-green?style=for-the-badge)
+![Webhook](https://img.shields.io/badge/Webhook-Event_Driven-orange?style=for-the-badge)
 
-This project demonstrates workflow orchestration, REST API integrations, reusable sub-workflows, conditional routing, data transformation, batching, and reporting automation.
+An end-to-end data analytics and automation pipeline built with n8n that processes the complete order lifecycle—from ingestion of raw order data to enrichment, transformation, segmentation, and final reporting for business insights.
+
+This project demonstrates core data engineering and analytics concepts including workflow orchestration, REST API integration, data extraction and transformation (ETL), dataset merging, customer segmentation, conditional logic, batch processing, and automated reporting for downstream analytics consumption.
 
 ---
 
