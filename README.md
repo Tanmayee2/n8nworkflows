@@ -58,9 +58,9 @@ The automation begins with an HTTP webhook that accepts incoming order requests 
 ### Screenshot
 
 
-```markdown
+
 ![Order Webhook](images/Order-webhook-processor.png)
-```
+
 
 ---
 
@@ -78,9 +78,9 @@ The reusable processing workflow handles business logic while keeping the webhoo
 
 ### Screenshot
 
-```markdown
+
 ![Process Order Workflow](images/Order-webhook-subworkflow.png)
-```
+
 
 ---
 
@@ -114,9 +114,9 @@ Business rules determine how each order should be processed.
 
 ### Screenshot
 
-```markdown
+
 ![API Integration Pipeline](images/Order-processing-API-integration.png)
-```
+
 
 ---
 
